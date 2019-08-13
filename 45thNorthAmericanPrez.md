@@ -15,19 +15,19 @@
 <body>
   <ol>
     <li>On November 4, 2008, Barack Obama was elected the 44th President of the United States, winning more votes than any candidate in history. </li>
-    <li>1961 - Born in Honolulu, Hawaii</li>
-    <li>1983 - Earned a BA degree from Columbia University and went on to work as a community organizer in Chicago.</li>
-    <li>1988 - Enrolles into Harvard Law School, where he was Harvard Law Review's first black president.</li>
-    <li>1992 - graduated with a JD degree magna cum laude from Harvard Law. </li>
-    <li>1995 - The manuscript was published as 'Dreams from My Father'. </li>
-    <li>1996 - He was elected to the Illinois Senate. </li>
-    <li>2001 - He supported Republican Governor Ryan's regulations aimed at averting home foreclosures. </li>
-    <li>2003 - Became chairman of the Illinois Senate's Health and Human Services Committee. </li>
-    <li>2005 - Sworn in a senator </li>
-    <li>2008- Became the first black male in the presidential office in history. </li>
-    <li>2009 - Issued orders to withdraw troops from Iraq and the closing of Guantanamo bay. </li>
-    <li>2010 - Signes the Health Care and Education Reconciliation Act. </li>
-    <li>2012 - re-elected into the oval office breaking the barings of history again. </li>
+    <li>1946 - </li>
+    <li>1983 - </li>
+    <li>1988 - </li>
+    <li>1992 - </li>
+    <li>1995 - </li>
+    <li>1996 - </li>
+    <li>2001 - </li>
+    <li>2003 - </li>
+    <li>2005 - </li>
+    <li>2008-  </li>
+    <li>2009 - </li>
+    <li>2010 - </li>
+    <li>2012 - </li>
   </ol>
   <h4> Business and C.E.O Achievements</h>
   <ul>
